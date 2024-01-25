@@ -2,6 +2,12 @@ gradle-scalatest
 ================
 A plugin to enable the use of scalatest in a gradle Scala project. [![Java CI with Gradle](https://github.com/maiflai/gradle-scalatest/actions/workflows/gradle.yml/badge.svg)](https://github.com/maiflai/gradle-scalatest/actions/workflows/gradle.yml)
 
+Fork Note
+---------
+
+This repo forks https://bitbucket.org/flexpond/maiflai-gradle-scalatest . It's used to publish private versions of the plugin while waiting for upstream changes to be merged and released.
+
+
 Getting started
 ---------------
 http://plugins.gradle.org/plugin/com.github.maiflai.scalatest
